@@ -10,7 +10,7 @@ In `Input_files`, there are two processed tables that can be loaded to generate 
 
 ## R scripts
 
-Scripts need to be run in the numerical order.
+Scripts stored in `Rscripts` need to be run in the numerical order.
 
 ## Output data
 
