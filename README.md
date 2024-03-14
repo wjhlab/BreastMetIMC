@@ -15,4 +15,5 @@ Scripts stored in `Rscripts` need to be run in the numerical order.
 ## Output data
 
 `Output_files` contains all figures generated from the scripts in this repository.
+Figures larger than 25MBs were omitted.
 
